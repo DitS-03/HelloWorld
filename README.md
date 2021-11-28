@@ -1,2 +1,2 @@
 # HelloWorld
-Tset Project for Github actions Tutorial
+Sample Project for Github actions Tutorial
