@@ -1,2 +1,2 @@
-# sample_1
+# HelloWorld
 Tset Project for Github actions Tutorial
